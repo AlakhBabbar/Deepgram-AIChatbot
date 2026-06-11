@@ -1,4 +1,4 @@
-# Deepgram AI Chat Assistant
+# Clarix
 
 A full-stack intelligent chat application with advanced features including audio/video transcription, document parsing, and conversation management powered by Google's Gemini AI.
 
