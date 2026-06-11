@@ -1,4 +1,4 @@
-# PanScience AI Chat Assistant
+# Deepgram AI Chat Assistant
 
 A full-stack intelligent chat application with advanced features including audio/video transcription, document parsing, and conversation management powered by Google's Gemini AI.
 
@@ -274,6 +274,3 @@ Potential areas for expansion:
 - Export chat history
 - Custom AI model selection
 
-## License
-
-This project is part of a technical assessment for PanScience.
